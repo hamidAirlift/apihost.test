@@ -1,10 +1,10 @@
 [
 {
-    name: "sign up bonus",
-    type: "signUpBonus", // weeklyBonus, dailyBonus
-    amount: 100,
-    daysLeft: 100,
-    totalTasks: 100,
-    completedTasks: 100,
+    "name": "sign up bonus",
+    "type": "signUpBonus", // weeklyBonus, dailyBonus
+    "amount": 100,
+    "daysLeft": 100,
+    "totalTasks": 100,
+    "completedTasks": 100,
 }
 ]
